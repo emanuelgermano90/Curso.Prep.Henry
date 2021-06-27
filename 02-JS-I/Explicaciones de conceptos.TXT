@@ -1,0 +1,25 @@
+VARIABLES:
+
+	Una variable es un espacio en la memoria de la computadora donde se guardan distintos tipos de datos los cuales
+	algunos pueden ser modificados y otros no.
+
+STRING:
+
+	String es un tipo de datos de texto.
+
+FUNCIONES:
+
+	Una funcion es un objeto que ejecuta una serie de variables y operaciones para conseguir un resultado.
+	Un argumento es una variable dentro del parentesis de la funcion lo que nos ayura a asignarle una variable
+	diferente cada vez que se ejecute la funcion.
+	Return es una declaracion que devuelte un resultado de la funcion... Se utiliza cuando creamos una funcion
+	esperando recibir un resultado.
+
+IF:
+
+	La declaracion "if" nos ayura a crear un camino diferente dependiendo de si la declaracion es verdadera o falsa...
+	esto nos ayuda a determinar un resultado dependiendo de una operacion booleana.
+
+VALORES BOOLEANOS:
+
+	Los valores booleanos son simplemente resultados verdaderos o falso.

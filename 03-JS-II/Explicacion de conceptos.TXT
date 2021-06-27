@@ -1,0 +1,8 @@
+FOR:
+	For es un bucle de repeticion el cual actua si cumple con la serie de condiciones que agregamos para su 
+	funcionamiento.
+
+&&, ||, !:
+	Son operadores logicos de comparacion. && signidica cuando comparamos 2 parametros y deben cumplirse los dos
+	(&& = y). || signidica cuando comparamos 2 parametros y debe cumplirse uno de los dos parametros ( || = o).
+	! Este operador niega el parametro que lo acompaña dandonos como resultado lo contrario (! = no).
