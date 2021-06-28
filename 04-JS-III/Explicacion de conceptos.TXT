@@ -1,0 +1,3 @@
+ARRAY:
+
+	Un array es un tipo de contenedor de datos el cual dentro de un array podemos guardar los datos que querramos.
