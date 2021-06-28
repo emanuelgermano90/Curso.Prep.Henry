@@ -1,0 +1,21 @@
+OBJETOS:
+
+	Es una estructura de datos con propiedades que nosotros asignamos para facilitar la programacion.
+
+PROPIEDADES:
+
+	Las propiedades son atrivutos para descrivir las funciones y definiciones del objeto que queremos crear.
+
+METODOS:
+
+	Metodos son funciones que programamos dentro de los objetos.
+
+BUCLE FOR IN:
+
+	Es un bucle de repeticion que nos permite recorrer un objeto pasando por sus propiedades.
+
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES:
+
+	La notacion de puntos es muy facil de usar en comparacion de la notacion de corchetes... pero la notacion de puntos
+	nos sirve para llamar a la propiedad por su nombre y los corchetes nos sirve para agregar una variable para llamar
+	a las propiedades.
