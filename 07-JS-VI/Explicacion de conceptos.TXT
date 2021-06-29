@@ -1,0 +1,4 @@
+FUNCIONES CALLBACK:
+
+	Las funciones Callback son funciones que hemos creado y podemos pasar como argumentos para poder utilizarlas en 
+	otras funciones.
