@@ -1,0 +1,7 @@
+PROTOTYPE:
+
+	Prototype es un metodo que nos permite utilizar los metodos heredados por las clases padres.
+
+CONSTRUCTORS:
+
+	El constructor es un metodo especial para crear e inicializar objetos creados por una clase.
